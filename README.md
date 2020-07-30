@@ -1,0 +1,2 @@
+# ChatworkReminderBot
+チャットワークで動作させるリマインダbot
